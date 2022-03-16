@@ -12,7 +12,7 @@ namespace ConsoleApp2
     }
     class NewClass
     {
-
+        metoda;
     }
 }
 
