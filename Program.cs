@@ -12,9 +12,10 @@ namespace ConsoleApp2
     }
     class NewClass
     {
-        metoda;
+        fja()
     }
 }
 
 
 //dodan komentar :D
+//dodana fja 
